@@ -1,7 +1,7 @@
 from dataclasses import dataclass, asdict, field
 
 @dataclass
-class User:
+class Avaliacao:
     limpeza : int
     estado_viatura : int
     comentario : str
